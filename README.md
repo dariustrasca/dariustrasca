@@ -1,12 +1,5 @@
 <h1 align="center"> 👋 Hi, I’m @𝗱𝗮𝗿𝗶𝘂𝘀𝘁𝗿𝗮𝘀𝗰𝗮 </h1> 
 <div align="center">
-  <a href="https://discord.com/invite/j5Fb3jj2Sq">
-    <img align="left" alt="Zippo Store Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-  </a>  
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img align="right" alt="Zippo Store " src="https://img.shields.io/badge/-ZippoStore-blue" />
-  </a> 
-  
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=dariustrasca) 
 </div>
 <br />
