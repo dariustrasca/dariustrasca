@@ -2,7 +2,7 @@
 <div align="center">
   
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=dariustrasca) 
-  ![#f03c15](red)
+  ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=red)
   
 </div>
  <h2 align="center"> About Me </h2>
