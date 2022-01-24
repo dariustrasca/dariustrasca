@@ -1,7 +1,7 @@
-<h1 align="center"> 👋 Hi, I’m @𝗱𝗮𝗿𝗶𝘂𝘀𝘁𝗿𝗮𝘀𝗰𝗮 </h1> 
+<h1 align="center"> 👋 Hi, I’m @𝗱𝘁𝗿𝗮𝘀𝗰𝗮 </h1> 
 <div align="center">
   
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=dariustrasca) 
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=dtrasca) 
 </div>
  <h2 align="center"> About Me </h2>
     𝗛𝗲𝗹𝗹𝗼 𝗴𝘂𝘆𝘀, 𝗜'𝗺 𝗗𝗮𝗿𝗶𝘂𝘀 (𝗥𝗢, 𝟭𝟵). 𝗜 𝗮𝗺 𝘄𝗶𝗹𝗹𝗶𝗻𝗴 𝘁𝗼 𝘄𝗼𝗿𝗸 𝗼𝗻 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝗮𝗻𝗱 𝗜 𝗮𝗺 𝗼𝗽𝗲𝗻 𝘁𝗼 𝗹𝗲𝗮𝗿𝗻 𝗻𝗲𝘄 𝘀𝘁𝘂𝗳𝗳 (𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗳𝗿𝗲𝗲𝗹𝗮𝗻𝗰𝗶𝗻𝗴). 
@@ -13,5 +13,5 @@
   <p>- 🌱 I’m currently learning 𝗽𝘆𝘁𝗵𝗼𝗻, 𝗷𝗮𝘃𝗮, 𝗯𝗮𝘀𝗵, 𝗽𝗲𝗮𝗿𝗹 𝗮𝗻𝗱 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝘁𝗵𝗮𝘁 𝗜 𝗹𝗶𝗸𝗲 𝗵𝗼𝗻𝗲𝘀𝘁𝗹𝘆...
   <p>- 💞️ I’m looking to collaborate on 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴, 𝗷𝘂𝘀𝘁 𝗹𝗲𝗮𝘃𝗲 𝗮 𝗺𝗲𝘀𝘀𝗮𝗴𝗲.</p>
   <p>- 📫 How to reach me ... 𝗱𝗶𝘀𝗰𝗼𝗿𝗱/𝗲𝗺𝗮𝗶𝗹 </p>
-  <p> <img src="https://github-readme-stats.vercel.app/api?username=dariustrasca&show_icons=true&theme=gotham" alt="My Stats" />
+  <p> <img src="https://github-readme-stats.vercel.app/api?username=dtrasca&show_icons=true&theme=gotham" alt="My Stats" />
 </div>
