@@ -5,6 +5,7 @@
   [![Discord](https://img.shields.io/discord/706163734695116841?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/krgRQhD)
   [![Followers](https://img.shields.io/github/followers/dtrasca?color=%23ce5842&style=flat)](https://github.com/dtrasca)
   [![Depends](https://img.shields.io/badge/dependencies-coffeine-%23ce5842)](https://github.com/dtrasca)
+  [![platform](https://img.shields.io/badge/platform-windows11%20%7C%20debian%2011-%23ce5842)](https://github.com/dtrasca)
 </div>
  <h2 align="center"> About Me </h2>
     𝗛𝗲𝗹𝗹𝗼 𝗴𝘂𝘆𝘀, 𝗜'𝗺 𝗗𝗮𝗿𝗶𝘂𝘀 (𝗥𝗢, 𝟭𝟵). 𝗜 𝗮𝗺 𝘄𝗶𝗹𝗹𝗶𝗻𝗴 𝘁𝗼 𝘄𝗼𝗿𝗸 𝗼𝗻 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝗮𝗻𝗱 𝗜 𝗮𝗺 𝗼𝗽𝗲𝗻 𝘁𝗼 𝗹𝗲𝗮𝗿𝗻 𝗻𝗲𝘄 𝘀𝘁𝘂𝗳𝗳 (𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗳𝗿𝗲𝗲𝗹𝗮𝗻𝗰𝗶𝗻𝗴). 
