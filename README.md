@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi, I’m @𝗱𝘁𝗿𝗮𝘀𝗰𝗮 </h1> 
 <div align="center">
   
-  [![visitors](https://visitor-badge.glitch.me/badge?page_id=dtrasca&right_color=red)(https://github.com/dtrasca)]
+  [![visitors](https://visitor-badge.glitch.me/badge?page_id=dtrasca&right_color=red)](https://github.com/dtrasca)
   [![Discord](https://img.shields.io/discord/706163734695116841?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/krgRQhD)
   ![Followers](https://img.shields.io/github/followers/dtrasca?color=%23ce5842&style=flat)
   ![Depends](https://img.shields.io/badge/dependencies-coffeine-%23ce5842)
