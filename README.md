@@ -20,7 +20,3 @@
   <p> <img src="https://github-readme-stats.vercel.app/api?username=dtrasca&show_icons=true&theme=default_repocard&count_private=true" alt="My Stats" />
   <p> <img src="https://raw.githubusercontent.com/Peyrzival/Peyrzival/output/github-contribution-grid-snake.svg" alt="Snake Contribution"/>
 </div>
-
-<h1 align="center">
-  [![snake](https://raw.githubusercontent.com/Peyrzival/Peyrzival/output/github-contribution-grid-snake.svg)](https://github.com/dtrasca)]
-  </h1>
