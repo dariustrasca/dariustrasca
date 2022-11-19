@@ -21,6 +21,6 @@
   <p> <img src="https://raw.githubusercontent.com/Peyrzival/Peyrzival/output/github-contribution-grid-snake.svg" alt="Snake Contribution"/>
 </div>
 
-<div align="center">
+<h1 align="center">
   [![snake](https://raw.githubusercontent.com/Peyrzival/Peyrzival/output/github-contribution-grid-snake.svg)](https://github.com/dtrasca)]
-  </div>
+  </h1>
