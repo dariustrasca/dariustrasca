@@ -18,5 +18,5 @@
   <p>- 💞️ I’m looking to collaborate on 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴, 𝗷𝘂𝘀𝘁 𝗹𝗲𝗮𝘃𝗲 𝗮 𝗺𝗲𝘀𝘀𝗮𝗴𝗲.</p>
   <p>- 📫 How to reach me ... 𝗱𝗶𝘀𝗰𝗼𝗿𝗱/𝗲𝗺𝗮𝗶𝗹 </p>
   <p> <img src="https://github-readme-stats.vercel.app/api?username=dtrasca&show_icons=true&theme=default_repocard&count_private=true" alt="My Stats" />
-  [!(https://github.com/Peyrzival/Peyrzival/blob/output/github-contribution-grid-snake.svg)]
+  <p> <img src="https://raw.githubusercontent.com/Peyrzival/Peyrzival/output/github-contribution-grid-snake.svg" alt="Snake Contribution"/>
 </div>
