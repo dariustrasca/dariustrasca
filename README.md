@@ -22,5 +22,5 @@
 </div>
 
 <div align="center">
-  [![snake](https://raw.githubusercontent.com/Peyrzival/Peyrzival/output/github-contribution-grid-snake.svg)](https://github.com/dtrasca)
+  [![snake](https://raw.githubusercontent.com/Peyrzival/Peyrzival/output/github-contribution-grid-snake.svg)](https://github.com/dtrasca)]
   </div>
