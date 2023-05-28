@@ -5,7 +5,7 @@
   [![Followers](https://img.shields.io/github/followers/dtrasca?color=%23ce5842&style=flat)](https://github.com/dtrasca)
   [![Depends](https://img.shields.io/badge/dependencies-coffeine-%23ce5842)](https://github.com/dtrasca)
   [![platform](https://img.shields.io/badge/platform-windows11%20%7C%20debian12-%23ce5842)](https://github.com/dtrasca)
-  [![Homepage](https://img.shields.io/badge/servers-Homepage-%23ce5842)](https://trsk.it)
+  [![Homepage](https://img.shields.io/badge/server's-Homepage-%23ce5842)](https://trsk.it)
   [![commit](https://img.shields.io/github/last-commit/dtrasca/dtrasca?color=%23ce5842&label=last%20commit%20about%20me)](https://github.com/dtrasca)
   <br> [![Discord](https://img.shields.io/discord/706163734695116841?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/krgRQhD)
 </div>
